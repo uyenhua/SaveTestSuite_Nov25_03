@@ -48,6 +48,7 @@ NOTE: Check the Test Case transaction log after the execution of the test to vie
       <con:property>password</con:property>
       <con:completeLastOperation>true</con:completeLastOperation>
       <con:restartOnRun>true</con:restartOnRun>
+      <con:stopDatasourceExhausted>false</con:stopDatasourceExhausted>
     </con:config>
   </con:testStep>
   <con:testStep type="restrequest" name="Login" id="2b02bf6d-274e-41fc-81cb-293779e06f58">
