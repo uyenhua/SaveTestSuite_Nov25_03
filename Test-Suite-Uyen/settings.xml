@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="c71f85b6-21ad-4c9b-9bac-91791e0fd43f" name="Test Suite Uyen" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="c71f85b6-21ad-4c9b-9bac-91791e0fd43ffileName">Test-Suite-Uyen</con:setting>
+  </con:settings>
+  <con:runType>SEQUENTIAL</con:runType>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testSuite>
