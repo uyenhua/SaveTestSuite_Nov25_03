@@ -6,6 +6,7 @@ Sample-REST-Test-Suite\Simple-Login-Call.xml
 Sample-REST-Test-Suite\Integration-Test.xml
 Sample-REST-Test-Suite\DataDriven-REST-Test.xml
 Test-Suite-1\Test-Case-1.xml
+Test-Suite-Uyen\Test-Case-1.xml
 EcommerceVirt\%2Ftest.xml
 EcommerceVirt\buy.xml
 EcommerceVirt\login.xml
